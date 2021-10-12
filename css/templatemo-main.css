@@ -847,6 +847,6 @@ nav a:hover::before {
 	}
 }
 
-.contact{
-	font-size: 50px;
+.checked {
+	color: orange;
 }
